@@ -1,0 +1,10 @@
+.card-img-top:hover {
+  transform: scale(1.1);
+  filter: brightness(75%);
+}
+
+body,
+html {
+  background-image: url("https://png.pngtree.com/background/20210712/original/pngtree-modern-double-colors-neon-lights-on-brick-background-picture-image_1170045.jpg");
+  background-size: cover;
+}
